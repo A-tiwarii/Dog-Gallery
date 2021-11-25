@@ -1,9 +1,9 @@
 
 # Dog Gallery
 
-Simmple React website which consuming data from ( https://dog.ceo/dog-api/documentation/) and providing Gallery view.
+Simple React website which consumes data from ( https://dog.ceo/dog-api/documentation/) and provides Gallery view.
 
-- Note: This project is for ICICI Innovation Labs Reqruitment Process
+- Note: This project is for ICICI Innovation Labs Recruitment Process
 
 
 ## Author
