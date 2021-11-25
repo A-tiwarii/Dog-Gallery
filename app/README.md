@@ -40,9 +40,19 @@ Your app is ready to be deployed!
 
 
 
-## Screenshots
+## Screenshots (please open to see full image)
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Sample](https://github.com/A-tiwarii/Dog-Gallery/blob/main/app/Screenshot%20(531).png)
+![test](https://github.com/A-tiwarii/Dog-Gallery/blob/main/app/Screenshot%20(522).png)
+![sample](https://github.com/A-tiwarii/Dog-Gallery/blob/main/app/Screenshot%20(532).png)
+![test](https://github.com/A-tiwarii/Dog-Gallery/blob/main/app/Screenshot%20(523).png)
+![sample](https://github.com/A-tiwarii/Dog-Gallery/blob/main/app/Screenshot%20(523).png)
+![all test](https://github.com/A-tiwarii/Dog-Gallery/blob/main/app/Screenshot%20(524).png)
+![all test](https://github.com/A-tiwarii/Dog-Gallery/blob/main/app/Screenshot%20(526).png)
+![all test](https://github.com/A-tiwarii/Dog-Gallery/blob/main/app/Screenshot%20(527).png)
+![all test](https://github.com/A-tiwarii/Dog-Gallery/blob/main/app/Screenshot%20(528).png)
+![all test](https://github.com/A-tiwarii/Dog-Gallery/blob/main/app/Screenshot%20(529).png)
+![all test](https://github.com/A-tiwarii/Dog-Gallery/blob/main/app/Screenshot%20(534).png)
 
 
 ## Given Task (✔ /❌)
